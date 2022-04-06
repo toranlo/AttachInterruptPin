@@ -1,0 +1,15 @@
+###########################################
+# Syntax Coloring Map For KEYPAD INTERRUPT library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+attachInterruptPin	KEYWORD2
+detachInterruptPin	KEYWORD2
