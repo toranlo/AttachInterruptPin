@@ -11,9 +11,9 @@ The Arduino attachInterrupt() function only allows pines 2 & ~3.
 
 Interrupt is trigered by a pin change status (rising or falling edge).
 One or more pins can be combined to activate the same interrupt:
- PCINT0 (higher priority): Arduino Uno pins 13,12,~11,~10,~9,8.
- PCINT1                  : Arduino Uno pins A5,A4,A3,A2,A1,A0.
- PCINT2 (lower priority) : Arduino Uno pins 7,~6,~5,4,~3,2,1TX,0RX.
+ - PCINT0 (higher priority): Arduino Uno pins 13,12,~11,~10,~9,8.
+ - PCINT1                  : Arduino Uno pins A5,A4,A3,A2,A1,A0.
+ - PCINT2 (lower priority) : Arduino Uno pins 7,~6,~5,4,~3,2,1TX,0RX.
 
 To obtain the most recent version of the code or to report issues (or, better, 
 provide fixes), please visit the Github pages at
