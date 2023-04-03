@@ -1,4 +1,4 @@
-/* AttachInterruptPinTest.ino v1.0, 04/04/2022, Jesus Macias
+/* AttachInterruptPinTest.ino v1.0, 04/04/2022, toranlo
 --------------------------------------------------------------------------------
  Example for testing the interrupts on all pins of Arduino Uno, Nano, Mini and
  other 328-based boards.
@@ -6,7 +6,7 @@
  ground, pressing the button the corresponding counter will increment.
  Enter a number from 0 to 7 to run the interruption tests.
 
- (C) 2022 Jesus Macias
+ (C) 2022 toranlo
 
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -24,7 +24,7 @@
 #include "AttachInterruptPin.h"
 
 //getKey----------------------------------------------------------------
-/* getKey, 23/02/2022, Jesus Macias
+/* getKey, 23/02/2022, toranlo
  * Reads a key and discharge the rest of keys until '\n' is found
  * Returns -1 if no key is available
  * Returns 0 if only '\n' is found

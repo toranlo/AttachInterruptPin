@@ -1,7 +1,7 @@
 # AttachInterruptPin
 ## AttachInterrupt for all pins of Arduino Uno, Nano, Mini and other 328-based boards.
 
-AttachInterruptPin v1.0, 04/04/2022, Jesus Macias
+AttachInterruptPin v1.0, 04/04/2022, toranlo
 --------------------------------------------------------------------------------
 
 This is an Arduino library that enables you attach an interrupt to any pin of 
@@ -24,7 +24,7 @@ provide fixes), please visit the Github pages at
 Inquiries via the Github issue tracker, please.  This way, others may benefit
 from the answers.
 
-(C) 2022 Jesus Macias
+(C) 2022 toranlo
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

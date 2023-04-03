@@ -1,10 +1,10 @@
-/* LedInterrupt.ino v1.0, 04/04/2022, Jesus Macias
+/* LedInterrupt.ino v1.0, 04/04/2022, toranlo
 --------------------------------------------------------------------------------
  Example of using the AttachInteruptPin library.
  Turns ON and OFF a LED diode using pin interrupts.
  In the Arduino Uno connect a push button between pin 4 and GND.
 
- (C) 2022 Jesus Macias
+ (C) 2022 toranlo
 
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by

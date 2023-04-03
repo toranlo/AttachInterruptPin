@@ -1,4 +1,4 @@
-/* AttachInterruptPin v1.0, 04/04/2022, Jesús Macias
+/* AttachInterruptPin v1.0, 04/04/2022, toranlo
  
  AttachInterrupt for all pins of Arduino Uno, Nano, Mini and other 328-based
  boards. The Arduino attachInterrupt() function only allows pines 2 & ~3.
@@ -8,7 +8,7 @@
  PCINT1                  : Arduino Uno pins A5,A4,A3,A2,A1,A0.
  PCINT2 (lower priority) : Arduino Uno pins 7,~6,~5,4,~3,2,1TX,0RX.
  
- (C) 2022 Jesus Macias
+ (C) 2022 toranlo
 
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
